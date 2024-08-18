@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Nhà cái Loto188 - loto188a1.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Loto188 <https://loto188a1.com/>`_ - Đăng ký tham gia ngay trò chơi lô đề 1 ăn 99 mới nhất, xanh chín nhất từ Nhà cái Loto188. Nhà cái uy tín nhất năm 2024. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 989 Giải Phóng, quận Hoàng Mai, Hà Nội. 
 
-   This project is under active development.
+Phone: 0793465221. 
 
-Contents
---------
+Website: https://loto188a1.com/
 
-.. toctree::
-
-   usage
-   api
+#loto188 #loto188a1 #nhacailoto188
